@@ -16,6 +16,7 @@ FITUR
 
 STRUKTUR FOLDER
 ---------------
+```
 .
 ├── index.php           # Halaman utama (list transaksi)
 ├── add.php             # Form tambah transaksi
@@ -24,6 +25,7 @@ STRUKTUR FOLDER
 ├── db.php              # Koneksi database
 └── db/
     └── finance_db.sql  # File SQL hasil export database
+```
 
 CARA INSTALL & MENJALANKAN
 --------------------------
